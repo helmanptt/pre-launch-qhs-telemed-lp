@@ -19,14 +19,14 @@ const Plans: React.FC = () => {
               <div className="md:w-1/2">
                 <h3 className="text-sm font-black text-[#51dcec] uppercase tracking-[0.2em] mb-4">Investimento Founding Client</h3>
                 <div className="flex items-baseline gap-2 mb-6">
-                  <span className="text-6xl md:text-7xl font-black">R$ 20</span>
+                  <span className="text-6xl md:text-7xl font-black">R$20</span>
                   <span className="text-xl font-medium opacity-60">/vida/mês</span>
                 </div>
                 <p className="text-lg text-blue-100 mb-8 leading-relaxed font-medium">
                   Este valor é travado por contrato para as empresas que se qualificarem para o pré-lançamento.
                 </p>
                 <div className="flex items-center gap-2 text-[10px] font-black text-[#51dcec] bg-white/10 px-4 py-2 rounded-lg w-fit uppercase tracking-widest">
-                  <Info size={14} /> Foco em Operações de 51-200 vidas.
+                  <Info size={14} /> Foco em Operações de 50-200 vidas.
                 </div>
               </div>
 

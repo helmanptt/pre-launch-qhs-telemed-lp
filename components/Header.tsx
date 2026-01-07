@@ -18,7 +18,7 @@ const Header: React.FC = () => {
                 href="#contato"
                 className="bg-[#173577] text-white text-[10px] sm:text-xs font-black px-4 sm:px-6 py-2.5 sm:py-3 rounded uppercase tracking-widest hover:bg-[#173577]/90 transition-all duration-300 shadow-md transform hover:-translate-y-0.5"
             >
-                Entrar na lista
+                Aplicar para lista
             </a>
         </div>
       </div>

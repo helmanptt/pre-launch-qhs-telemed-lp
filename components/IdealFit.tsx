@@ -14,7 +14,7 @@ const IdealFit: React.FC = () => {
             </h3>
             <ul className="space-y-5">
               {[
-                'Empresas entre 51 e 200 colaboradores.',
+                'Empresas entre 50 e 200 colaboradores.',
                 'Gestores que sofrem com faltas de "atestado de 1 dia".',
                 'RHs cansados de burocracia e implantação lenta.',
                 'Negócios que buscam ROI claro e imediato.'

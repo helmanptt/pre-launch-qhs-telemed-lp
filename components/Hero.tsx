@@ -45,9 +45,6 @@ const Hero: React.FC = () => {
             <div className="flex items-center gap-2 text-white text-xs font-black tracking-widest">
               <ShieldCheck size={14} className="text-[#51dcec]" /> ZERO COPARTICIPAÇÃO
             </div>
-            <div className="text-[#51dcec] text-xs font-black tracking-widest">
-              • 4 SLOTS ESTRATÉGICOS RESTANTES
-            </div>
           </div>
         </div>
       </div>
